@@ -1,0 +1,8 @@
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (1, 24, "Mr. Chocolate", "M", "Brown", "hot", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (2, 55, "Rowdy", "M", "Black", "cold", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (3, 66, "Tabitha", "F", "White", "cold", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (4, 14, "Sergeant Brown", "M", "Brown", "hot", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (5, 34, "Melissa", "F", "Blue", "hot", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (6, 45, "Grinch", "M", "Green", "cold", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (7, 13, "Wendy", "F", "Purple", "hot", 1)
+INSERT INTO bears (id, name, age, sex, color, temperature, alive) VALUES (8, NULL, NULL, NULL, "Black", "hot", NULL)
